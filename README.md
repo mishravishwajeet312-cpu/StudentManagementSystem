@@ -7,8 +7,6 @@ This project allows you to manage student records directly in the browser with l
 
  View all students in a tabular format
 
- Search student by Roll Number / Name
-
  Update student details
 
  Delete student records
